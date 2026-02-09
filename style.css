@@ -1,0 +1,126 @@
+:root{
+    --background-main-color: #121212;
+    --background-secondary-color: #1e1e1e;
+
+    --text-main-color: white;
+    --text-secondary-color: #aaa;
+
+    --link-color: #777;
+    --link-hover-color: #fff;
+
+    --border-main-color: #777;
+    --border-secondary-color: #333;
+}
+
+
+
+body {
+    font-family: monospace, monospace;
+    background: var(--background-main-color);
+    color: var(--text-main-color);
+}
+
+
+
+header {
+    border-bottom: var(--border-main-color) solid;
+    padding: 1em;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: var(--link-hover-color);
+}
+
+
+
+main {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+main .content-recent {
+    flex: 3;
+}
+
+main article {
+    border: var(--border-secondary-color) solid;
+    background-color: var(--background-secondary-color);
+    padding: 30px;
+    border-radius: 8px;
+}
+
+
+main article h2 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+main article .meta{
+    font-size: 0.8em;
+    color: var(--text-secondary-color);
+}
+
+main article .meta p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+main article .content-preview {
+    margin-bottom: 0px;
+}
+
+main article .content-preview .row {
+    display: flex;
+}
+
+main article .content-preview .row figure {
+    flex: 1;
+    margin: 10px;
+}
+
+main article .content-preview .row figure img{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+main article .content-preview .row figure figcaption {
+    color: var(--text-secondary-color);
+}
+
+main aside {
+    flex: 1;
+    background-color: var(--background-secondary-color);
+    border: var(--border-secondary-color) solid;
+    padding: 30px;
+    padding-top: 0;
+    padding-bottom: 5px;
+    border-radius: 8px;
+    color: var(--text-secondary-color);
+    max-width: 300px;
+    min-width: 200px;
+}
+
+
+
+footer {
+    text-align: center;
+    border-top: var(--border-main-color) solid;
+    padding: 10px;
+}
