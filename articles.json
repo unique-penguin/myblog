@@ -1,0 +1,41 @@
+[
+    {
+        "title":"Fight Club (1999)",
+        "content":"<p styl=\"indent:text-indent: 2em;\">Acho que é a primeira vez que consegui compreender os sentimentos de um protagonista também como o deste, acredito que seja uma coisa de idade e da minha situação de vida atual, visto que o meu irmão mais novo não achou o filme nada de mais, e olhando para trás, eu até concordo, mas mesmo assim, não sei.</p><br><br><p styl=\"indent:text-indent: 2em;\">Não estudei cinematografia e nunca vi muitos filmes, mas a estrutura deste pareceu-me diferente.</p><br><br><p styl=\"indent:text-indent: 2em;\">Começamos com a introdução do protagonista, conhecemos o seu desejo de passar mais tempo com a sua família, ele as perde e espera que elas voltem, ele aceita as suas circunstâncias, mas mesmo assim não larga a esperança de as voltar a ver, no fim ele simplesmente continua vivendo a sua vida, mas sempre a espera de algo.</p><br><br><p styl=\"indent:text-indent: 2em;\">Lembro-me de ter visto um video sobre os filmes do Estúdio Ghibli e filmes japoneses no geral, de como retratam mudança ao invés da superação de um desafio, sendo normal o protagonista não ter mudado nada no fim, em comparação de onde começou e considero que este usou essa estrutura perfeitamente.</p><br><br><p styl=\"indent:text-indent: 2em;\">Para finalizar esta avaliação medíocre, deixo a frase de Disco Elysium que considero representar melhor o protagonista: <b><q>This is a man with a lot of past, but little present. And almost no future.</p></q></b><br><br><h3>Avaliação Final</h3><br><p styl=\"indent:text-indent: 2em;\">- Se estiverem por volta dos 20s ou mais vejam, caso contrário é melhor deixar para o futuro, e mesmo que pensem estar prontos.</p>",
+        "author":"CrazedOutPenguin",
+        "publish_date": "2026-01-01",
+        "movie":{
+            "title":{
+                "en":"Fight Club",
+                "pt":"Clube da Luta"
+            },
+            "year":1999
+        }
+    },
+    {
+        "title":"Train Dreams (2025)",
+        "content":"",
+        "author":"CrazedOutPenguin",
+        "publish_date":"2026-02-01",
+        "movie":{
+            "title":{
+                "en":"Train Dreams",
+                "pt":"Treinar Sonhos"
+            },
+            "year":2025
+        }
+    },
+    {
+        "title":"Forest Gump (1999)",
+        "content":"",
+        "author":"CrazedOutPenguin",
+        "publish_date":"2026-03-01",
+        "movie":{
+            "title":{
+                "en":"Forest Gump",
+                "pt":"Forest Gump"
+            },
+            "year":1998
+        }
+    }
+]
